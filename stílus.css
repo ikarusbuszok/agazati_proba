@@ -1,0 +1,29 @@
+body {
+    
+    background-image: url(kepek/black.png);
+}
+main{
+    width: 90%;
+    max-width: 900px;
+    background-color: rgb(66,88,90);
+
+
+}
+.content{
+    max-width: 500px;
+    margin: auto;
+    padding:10px ;
+
+}
+header{
+    background-image: url(kepek/game.png);
+}
+nav{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+
+}
+.img{
+    align-content: right;
+}
+
